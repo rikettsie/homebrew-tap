@@ -1,8 +1,8 @@
 class Rdrop < Formula
   desc "P2P streamed file transfer with ring-based access control"
   homepage "https://github.com/rikettsie/ringdrop"
-  url "https://github.com/rikettsie/ringdrop/archive/refs/tags/v0.4.3.tar.gz"
-  sha256 "c943d161e4428559e06e5427154b92baea61fc689190deec37aad000f3b0b2a6"
+  url "https://github.com/rikettsie/ringdrop/archive/refs/tags/v0.5.0.tar.gz"
+  sha256 "0e08c2ce9ae11a04d3095a2b2865cc10ad699aea2d56d523ae38436cfa634995"
   license "MIT"
 
   depends_on "rust" => :build
